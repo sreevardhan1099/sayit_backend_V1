@@ -1,0 +1,11 @@
+com\st\sayit\models\User.class
+com\st\sayit\repository\PostRepository.class
+com\st\sayit\service\SayitService.class
+com\st\sayit\models\Comment.class
+com\st\sayit\models\Profile.class
+com\st\sayit\repository\CommentRepository.class
+com\st\sayit\controller\SayitController.class
+com\st\sayit\models\Post.class
+com\st\sayit\SayitBackendApplication.class
+Customexceptions\Globalexceptions.class
+Customexceptions\IdnotfoundException.class
